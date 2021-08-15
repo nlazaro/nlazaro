@@ -13,8 +13,9 @@
  
 <details>
   <summary>:zap: Top langauges</summary>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlazaro)](https://github.com/anuraghazra/github-readme-stats)
-
+  
   </details>
  
 <details>
