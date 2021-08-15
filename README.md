@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nixon</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nlazaro&label=Vistors&color=0e75b6&style=flat" alt="nlazaro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nlazaro&label=Profile Views&color=0e75b6&style=flat" alt="nlazaro" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
