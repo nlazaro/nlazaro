@@ -22,3 +22,5 @@
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nlazaro&show_icons=true&locale=en" alt="nlazaro" /></p>
 </details>
+
+![](https://hit.yhype.me/github/profile?user_id=44237350)
